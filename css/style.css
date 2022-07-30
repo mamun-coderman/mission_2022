@@ -48,3 +48,46 @@ h2{
     font-size: 40px;
     text-align: center;
 }
+
+.flexible{
+    display: flex;
+    width: 80%;
+    margin: 5%;
+    padding: 5%;
+}
+
+.mission{
+    width: 30%;
+    margin: 1%;
+    padding: 2%;
+    background-color: bisque;
+    border-radius: 20px;
+}
+
+.mission img{
+    width: 30%;
+}
+
+.vission{
+    width: 30%;
+    margin: 1%;
+    padding: 2%;
+    background-color: skyblue;
+    border-radius: 20px;
+}
+
+.vission img{
+    width: 30%;
+}
+
+.goals{
+    width: 30%;
+    margin: 1%;
+    padding: 2%;
+    background-color: lightsalmon;
+    border-radius: 20px;
+}
+
+.goals img{
+    width: 30%;
+}
