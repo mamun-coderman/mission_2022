@@ -5,6 +5,7 @@ body{
 
 .section_one{
     display: flex;
+    height: 500px;
 }
 
 .half_width{
@@ -44,6 +45,11 @@ h1{
 p{
     color: gray;
 }
+
+.section_two{
+    height: 500px;
+}
+
 h2{
     font-size: 40px;
     text-align: center;
@@ -90,4 +96,22 @@ h2{
 
 .goals img{
     width: 30%;
+}
+
+h4{
+    font-size: 20px;
+}
+
+.section_three{
+    height: 500px;
+    display: flex;
+    background-image: url("../images/shapes/shape-1.png");
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin: 4%;
+}
+
+h3{
+    font-size: 30px;
 }
