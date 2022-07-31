@@ -46,6 +46,8 @@ p{
     color: gray;
 }
 
+/* section_one ends */ 
+
 .section_two{
     height: 500px;
 }
@@ -102,6 +104,8 @@ h4{
     font-size: 20px;
 }
 
+/* section_two ends */
+
 .section_three{
     height: 500px;
     display: flex;
@@ -114,4 +118,14 @@ h4{
 
 h3{
     font-size: 30px;
+}
+
+/* section_three ends */
+
+.section_four{
+    display: flex;
+    background-image: url(/images/shapes/shape-6.png);
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
